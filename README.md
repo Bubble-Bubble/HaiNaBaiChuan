@@ -1,9 +1,6 @@
 # XMVP
 Extract the MVP from the project
 
-# XMVP UML
-![XMPV_UML](mvp.png)
-
 # How to use?
 ### step1:define a contract
 You need to define a contract in contracts package, it contains a extend 'Contract.BasePresenter' interface and a extend 'Contract.BaseView' interface.
